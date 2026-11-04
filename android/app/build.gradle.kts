@@ -7,7 +7,7 @@ plugins {
 android {
     namespace = "mx.edu.utez.recetario_utez"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    ndkVersion = "30.0.16248370"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
