@@ -1,4 +1,4 @@
-import 'package:flutter/foundation.dart'; // Extiende de foundation.dart, no de material.dart
+import 'package:flutter/foundation.dart';
 import '../datos/recetas_repositorio.dart';
 import '../dominio/falla_red.dart';
 import '../dominio/receta.dart';
